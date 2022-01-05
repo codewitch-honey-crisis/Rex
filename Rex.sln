@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rex", "Rex\Rex.csproj", "{BE6C7882-7DFD-4590-B091-B6A5FE63BE84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{2A00947F-F084-47D4-845B-EA79B3E8A445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE6C7882-7DFD-4590-B091-B6A5FE63BE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6C7882-7DFD-4590-B091-B6A5FE63BE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6C7882-7DFD-4590-B091-B6A5FE63BE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6C7882-7DFD-4590-B091-B6A5FE63BE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A00947F-F084-47D4-845B-EA79B3E8A445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A00947F-F084-47D4-845B-EA79B3E8A445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A00947F-F084-47D4-845B-EA79B3E8A445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A00947F-F084-47D4-845B-EA79B3E8A445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44D704F2-F838-4737-9A89-A5A8FE89AA0B}
+	EndGlobalSection
+EndGlobal
